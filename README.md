@@ -1,5 +1,5 @@
 <h1 align="center">Shell Nxplorer</h1>
-## 🏗️Shell
+🏗️Shell
 
 ![YIC Poster](Code_Maniac_Poster.png)  
 
